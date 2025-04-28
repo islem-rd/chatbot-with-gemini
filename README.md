@@ -5,5 +5,7 @@ IR Chatbot
 Features
 
   •	Chat with Gemini AI
+
   •	Switch between dark and light mode
+
   •	Clean, responsive design
